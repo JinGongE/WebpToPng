@@ -56,5 +56,3 @@ def convert_webp_to_png():
 # 함수 실행
 convert_webp_to_png()
 
-#pyinstaller --onefile --windowed --icon=C:\Users\chhh0\Desktop\코딩\Python\chatGPT\WebpToPng\icon.ico --name=WebpToPng main.py
-
